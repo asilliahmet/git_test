@@ -1,3 +1,63 @@
 asdsadsldjfasdjfnlsdjfhlsdjflksdf
 change ver2
 change ver3
+
+
+holy shit
+can we do this
+yeah i see that
+its like google docs but for ultra nerds
+i made the terminal read-write now
+
+
+yo :D
+
+at the same time? yeah, you can keep typing. yep lol
+
+yeah exactly lmao
+
+yeah i ran git on it i know how to push and shit
+dotfiles is the default lewagon stuff
+add commit then push
+learned that from odin
+how do i find the new repo you just created
+yeah origin master and stuff
+oh i see it gh gave you the help page
+i am familiar with bash from high school but this zsh shit is killing me
+do we have to use this
+i can learn but just unfamiliar with it
+oh i got you
+no i did it
+accidentally killed the wrong terminal
+here is a new one
+
+
+
+
+what don't you understand about zsh?
+zsh is basically bash + extra features. You should be able to run bash commands as well.able
+-> i know i can run neofetch and shit on it
+I lost your terminal btw, 1 sec.
+
+i am listening
+cant see the git_test repo on ls tho
+
+
+You have to link this repo to that terminal using:
+
+git remote add origin
+
+You have to paste the whole thing, like git@github.com:asilliaahmet/gh_test.git
+
+ohhh
+ohhh
+i get it now
+git remote add o
+git remote add origin git@github.com:asilliahmet/gh_test.git
+
+also
+you're in the wrong folder :D
+
+do it now
+
+i think we are trying to start a repo inside a repo here
